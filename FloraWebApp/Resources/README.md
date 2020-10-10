@@ -6,4 +6,7 @@ This folder contains the resources for building and deploying the web app. This 
 This folder contains imgea and visual graphics for the project. This folder also contains screenshots of the webapp running on the web browser.
 
 ### Requirements
-This file contains the list of libraries that are used for building the web application. These libraries are used for building the application and the predictive model.
+This file contains the list of libraries that are used for building the web application. These libraries are used for building the application and the predictive model. For installing the required libraries use the following command:
+```
+pip3 install -r requirements.txt
+```

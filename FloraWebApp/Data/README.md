@@ -11,4 +11,4 @@ The columns in this dataset are:
 - PetalWidthCm : Width of the petal (in cm)
 - Species : Species name
 
-This dataset is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species.
+This dataset is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. Two of the three species were collected in the Gaspé Peninsula "all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus".

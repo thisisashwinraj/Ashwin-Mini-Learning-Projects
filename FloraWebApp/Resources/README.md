@@ -3,7 +3,7 @@ This folder contains the resources for building and deploying the web app. This 
 
 # Files and Folders
 ### Images
-This folder contains imgea and visual graphics for the project. This folder also contains screenshots of the webapp running on the web browser.
+This folder contains images and visual graphics for the project. This folder also contains screenshots of the webapp running on the web browser.
 
 ### Requirements
 This file contains the list of libraries that are used for building the web application. These libraries are used for building the application and the predictive model. For installing the required libraries use the following command:

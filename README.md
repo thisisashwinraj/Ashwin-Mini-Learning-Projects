@@ -12,9 +12,9 @@ Flora is a serverles web application built using streamlit. The application uses
 > **Technical Stack**: Python, Streamlit, Machine Learning
 
 # Contribution
-New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective READMEs. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in)
+New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective READMEs. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
-Contributors may open issues, suggest edits, send pull requests with improvements and/or add new projects to this repository. However, for major changes, it is recommended that you open an issue first to discuss what you would like to change.
+Contributors may open issues, suggest edits, send pull requests with improvements and/or add new projects to this repository. However, for major changes, it is recommended that you open an issue first to discuss what you would like to change. More information regarding contribution can be found in the .github folder.
 
 ### Clone the repository
 To contribute to this repository you have to clone the repository and send a pull request.

@@ -29,5 +29,5 @@ sudo pip3 install -r requirements.txt
 ### Opening Issues
 Issues integrate lightweight tasks tracking within the repository. Contributors are expected to open issues using the issue templates present in the .github folder. The contributors may either open a Bug Report or a Feaure Request.
 
-# License
-The software and all other resources present in this repository are distributed under the MIT license.
+# License and Project Status
+The software and all other resources present in this repository are distributed under the MIT license. The project status of various projects can be found in their individual README sections.

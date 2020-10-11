@@ -1,5 +1,5 @@
 # Workspace
-This repository contains the program and resources for various projects that are as listed below. The projects uses a wide array of technologies and the dependencies for the various projects maybe different which are specified seprately in their respective folders.
+This repository contains the program and resources for various projects that are as listed below. The projects uses a wide array of technologies and the dependencies for each project is specified seprately in their respective folders.
 
 This repository was started in 2020 and all the software and resources used are shared under the MIT License.
 

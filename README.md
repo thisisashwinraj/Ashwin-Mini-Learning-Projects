@@ -1,10 +1,10 @@
 # Workspace
 This repository contains the program and resources for various projects that are as listed below. The projects uses a wide array of technologies and the dependencies for the various projects maybe different which are specified seprately in their respective folders.
 
-This repository was cretaed in October 2020 and all the programs and resources used are shared under the MIT License.
+This repository was started in 2020 and all the software and resources used are shared under the MIT License.
 
 # Projects
-All the resourrces for the projects are available in their respective folders. You can look for the project status of each individual project in their respective README sections. The various projects included in this repository are as mentioned below:
+All the resources for the projects are available in their respective folders. You can look for the project status of each individual project in their respective README sections. The various projects included in this repository are as mentioned below:
 
 ### Flora Web App
 Flora is a serverles web application built using streamlit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. Random Forest Clasifier is used for building the predictive model.

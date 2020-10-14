@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
 # Flora : The Iris Flower Prediction App
-**This app predicts the Iris flower species based on their denddrometric features!**
+**This app predicts the Iris flower species based on their dendrometric features!**
 """)
 
 st.sidebar.header('User Input Parameters')

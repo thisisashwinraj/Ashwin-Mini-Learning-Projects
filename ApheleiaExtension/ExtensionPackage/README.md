@@ -17,4 +17,4 @@ This is the html file of the chrome extension. Extensions may have many forms, b
 This file contains the code to interact with the browser's tab system and feed the code to the content.js file.
 
 ### styles.css
-This file is used to describe the presentation of the chrome extension, including colors, layout, and fonts. This file decide the look and feel of the exttension.
+This file is used to describe the presentation of the chrome extension, including colors, layout, and fonts.This can be edited to alter the look of the extension.

@@ -8,8 +8,11 @@ All the resources for the projects are available in their respective folders. Yo
 
 ### [Flora Web App](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp)
 Flora is a serverles web application built using streamlit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. Random Forest Clasifier is used for building the predictive model.
-
 > **Technical Stack**: Python, Streamlit, Machine Learning
+
+### [Apheleia Extension](https://github.com/ashwinraj-in/Workspace/tree/main/ApheleiaExtension)
+Apheleia is a chrome extension that uses natural language processing to generate a summary of a web page by highlighting the important text. Summarizing is based on ranks of text sentences using a variation of the TextRank algorithm.
+> **Technical Stack**: Python, Natural Language Processing, HTML, CSS, Javascript
 
 # Contribution
 New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective READMEs. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in).

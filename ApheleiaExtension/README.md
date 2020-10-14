@@ -43,7 +43,7 @@ New contributors of all experience levels are welcomed to contribute to this pro
 ### Clone the repository
 To contribute to this project you have to clone the repository and send a pull request.
 ```
-git clone https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp
+git clone https://github.com/ashwinraj-in/Workspace/tree/main/ApheleiaExtension
 ```
 ### Installing Required Libraries
 The web application requires some requirements that can be installed using the following code.

@@ -11,7 +11,7 @@ Flora is a serverles web application built using streamlit. The application uses
 > **Technical Stack**: Python, Streamlit, Machine Learning
 
 ### [Apheleia Extension](https://github.com/ashwinraj-in/Workspace/tree/main/ApheleiaExtension)
-Apheleia is a chrome extension that uses natural language processing to generate a summary of a web page by highlighting the important text. Summarizing is based on ranks of text sentences using a variation of the TextRank algorithm.
+Apheleia is a chrome extension that uses natural language processing to generate a summary of a web page by highlighting the important text. Summarizing is based on ranks of text sentences using a variation of TextRank algorithms.
 > **Technical Stack**: Python, Natural Language Processing, HTML, CSS, Javascript
 
 # Contribution

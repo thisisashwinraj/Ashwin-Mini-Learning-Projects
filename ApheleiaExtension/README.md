@@ -23,7 +23,9 @@ The package necessary for running the web app include all the files of Extension
   2. Toggle the Developers Mode to be switched ON, if not by default.
   3. Click on the Load Unpacked option and select the extension folder.
   
-Once the upload completes, the extension will be added to your chrome browser, that you can verify by clicking on the extensions option next to the search bar. To run your extension, simply select the name of your extension and click on **Highlight Summary** option. This will take around 15 to 30 seconds to create a summary and highlight the text depending on the size of the text.
+Once the upload completes, the extension will be added to your chrome browser, that you can verify by clicking on the extensions option next to the search bar. To run your extension, simply select the name of your extension and click on **Highlight Summary** option. 
+
+This will take around 15 to 30 seconds to create a summary and highlight the text depending on the size of the text.
   
 ### Publishing the extension on Chrome Store
 To publish the extension on chrome store, simply follow the below listed steps:

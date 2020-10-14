@@ -19,7 +19,7 @@ Contributors may open issues, suggest edits, send pull requests with improvement
 ### Clone the repository
 To contribute to this repository you have to clone the repository and send a pull request.
 ```
-git clone https://github.com/ashwinraj-in/Vulpex-WebApp
+git clone https://github.com/ashwinraj-in/Workspace.git
 ```
 ### Installing Required Libraries
 Each project has different set of dependencies that can be found in the requirements.txt file of that project. These can be installed using the following code:

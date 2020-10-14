@@ -52,4 +52,4 @@ sudo pip3 install -r requirements.txt
 ```
 
 # License and Project Status
-The extension package and other resources for developing this chrome extension are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be made by making the process quicker and improving the quality of the results.
+The extension package and other resources for developing this chrome extension are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be made by making the process quicker & improving the quality of the results.

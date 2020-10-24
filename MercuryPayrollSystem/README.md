@@ -47,4 +47,4 @@ The software requires certain libraries that needs to be installed for running t
 ```
 
 # License and Project Status
-The extension package and other resources for developing this chrome extension are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be made by making the process quicker & improving the results.
+The source code and other resources for developing the payroll management system are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be done in user interface by implementaion of visual graphics.

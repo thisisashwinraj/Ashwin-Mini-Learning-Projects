@@ -14,6 +14,10 @@ Flora is a serverles web application built using streamlit. The application uses
 Apheleia is a chrome extension that uses natural language processing to generate a summary of a web page by highlighting the important text. Extractive Summarization is used and summarizing is done using the gensim module.
 > **Technical Stack**: Python, Natural Language Processing, HTML, CSS, Javascript
 
+### [Mercury Payroll System](https://github.com/ashwinraj-in/Workspace/tree/main/MercuryPayrollSystem)
+Mercury Payroll System is a console application that enables your business to handle all your employee's financial records in a hassle-free, automated fashion. The software has multiple classes with numerous features within them.
+> **Technical Stack**: C++
+
 # Contribution
 New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective READMEs. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 

@@ -1,7 +1,7 @@
 # Apheleia Chrome Extension
 Apheleia is a chrome extension that can be used to create a summarry of a web page. The extension uses natural language processing to highlight important statements. A serverless architecture is adopted for the summarization API. Summarizing is based on ranks of text sentences using a variation of the TextRank algorithm.
 
-The project is distributed under the MIT License. The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in)
+The project is distributed under the MIT License. The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
 # Installation and Development
 ### Dependencies

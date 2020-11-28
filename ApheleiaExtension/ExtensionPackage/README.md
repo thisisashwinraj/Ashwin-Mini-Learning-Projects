@@ -5,7 +5,7 @@ This folder contains all the necesary files for developing the frontend and back
 This is a front end javascript file used for adding ready-made elements to the project. These elements can be customised as necessary.
 
 ### content.js
-In this flder, remember to replace the api_url with your google cloud function url before deploying the extension to chrome store.
+In this file, remember to replace the api_url with your google cloud function url before deploying the extension to chrome store.
 
 ### manifest.json
 json file is the only file that every extension using WebExtension APIs must contain. Manifest.json is used to specify basic metadata about the extension such as the name and version. It is also used to specify aspects of the extension's functionality (such as background scripts, content scripts, and browser actions).

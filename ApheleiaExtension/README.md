@@ -9,7 +9,7 @@ The project is distributed under the MIT License. The resources for this project
 - Gensim (>=3.8.3)
 
 ### Files and Folders
-Folders that are necessary for the functioning of web app are as mentioned below:
+Folders that are necessary for the functioning of the chrome extension are as mentioned below:
 - [ExtensionPackage](https://github.com/ashwinraj-in/Vulpex-WebApp/tree/master/Server):
   This folder contains all the necessary files that makes up the chrome extension.
 - [Resources]():
@@ -18,7 +18,7 @@ Folders that are necessary for the functioning of web app are as mentioned below
   This file contains the code to generate summary of the input text.
   
 # Running the Extension
-The package necessary for running the web app include all the files of Extension Package folder, the content of icons folder within the resources folder and the ExtensionMain.py file. For the extension to run, keep all the files in the same folder and then follow the steps that are as mentioned below:
+The package necessary for running the extension include all the files of Extension Package folder, the content of icons folder within the resources folder and the ExtensionMain.py file. For the extension to run, keep all the files in the same folder and then follow the steps that are as mentioned below:
   1. On your chrome browser, Go to Customize and Control Google Chrome < More Options < Extensions.
   2. Toggle the Developers Mode to be switched ON, if not by default.
   3. Click on the Load Unpacked option and select the extension folder.
@@ -46,7 +46,7 @@ To contribute to this project you have to clone the repository and send a pull r
 git clone https://github.com/ashwinraj-in/Workspace/tree/main/ApheleiaExtension
 ```
 ### Installing Required Libraries
-The web application requires some requirements that can be installed using the following code.
+The extension requires some requirements that can be installed using the following code.
 ```
 sudo pip3 install -r requirements.txt
 ```

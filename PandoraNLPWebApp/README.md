@@ -41,7 +41,7 @@ To contribute to this project you have to first clone the repository and then se
 git clone https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLPWebApp
 ```
 ### Installing Required Libraries
-The web application requires some requirements that are present in the requirements.txt file. These can be installed by running the following code.
+The web application requires some requirements that are present in the requirements.txt file. These can be installed by running:
 ```
 sudo pip3 install -r requirements.txt
 ```

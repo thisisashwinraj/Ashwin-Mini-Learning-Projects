@@ -7,7 +7,6 @@ setup(
   description='Perform NLP Operations',
   author='Ashwin Raj',
   author_email='rajashwin812@gmail.com',
-  url='https://www.python.org/sigs/distutils-sig/',
   packages==find_packages(exclude=('tests*',)),
   license='Apache 2.0',
   keywords='google colab ipython jupyter http_over_ws',

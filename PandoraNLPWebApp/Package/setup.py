@@ -8,6 +8,6 @@ setup(
   author='Ashwin Raj',
   author_email='rajashwin812@gmail.com',
   packages==find_packages(exclude=('tests*',)),
-  license='Apache 2.0',
+  license='MIT License',
   keywords='google colab ipython jupyter http_over_ws',
  )

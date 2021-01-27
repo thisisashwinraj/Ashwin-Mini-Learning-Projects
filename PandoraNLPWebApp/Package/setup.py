@@ -9,5 +9,5 @@ setup(
   author_email='rajashwin812@gmail.com',
   packages==find_packages(exclude=('tests*',)),
   license='MIT License',
-  keywords='google colab ipython jupyter http_over_ws',
+  keywords='Pandora NLP',
  )

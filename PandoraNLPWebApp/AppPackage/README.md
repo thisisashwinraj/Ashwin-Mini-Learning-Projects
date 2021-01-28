@@ -2,7 +2,7 @@
 This folder contains the setup and configuration files for the web application. 
 
 ### setup.py
-setup.py is a python file that allows you to easily install Python packages. In this project we have used setuptools instead of disutils. distutils is the standard library, bare-bones packaging toolset but setuptools has lots more useful stuff in it. setuptools wraps the basic features in distutils and adds a bunch of its own.
+setup.py is a python file that allows you to easily install Python packages. In this project we have used setuptools instead of disutils. distutils is the standard library, bare-bones packaging toolset but setuptools wraps the basic features in distutils and additionally has lots more useful stuff of its own.
 
 ```
 $ pip install . 

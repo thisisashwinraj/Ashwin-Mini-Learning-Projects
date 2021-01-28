@@ -84,12 +84,12 @@ def main():
 
 		if st.button("Summarize Text"):
       
-      # Using Sumy Summarizer
+      			# Using Sumy Summarizer
 			if summarizer == 'sumy':
 				st.text("You have Selected Sumy Summarizer")
 				result = sumySummarizer(input)
 			
-      # Using Gensim Summarizer
+      			# Using Gensim Summarizer
 			elif summarizer == 'gensim':
 				st.text("You have Selected Sumy Summarizer")
 				result = gensim(input)
@@ -97,7 +97,7 @@ def main():
 			# Default Summarizer, When No Choice is Made
 			else:
 				result = sumySummarizer(input)
-
+	
 			st.success(result)
 			
 	st.sidebar.subheader("PandoraNLP")

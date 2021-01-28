@@ -18,7 +18,7 @@ Folders that are necessary for the functioning of web app are as mentioned below
   This folder contains the setup and configuration files for the serverless Web App. 
 - [NLPApp](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLPWebApp/NLPApp.py):
   This file contains the program for deploying the web app including the predictive model.
-- [Resources](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp/Resources):
+- [Resources](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLPWebApp/Resources):
   This folder contains the visual graphics and modules that are used in the project.
   
 # Running the Web App

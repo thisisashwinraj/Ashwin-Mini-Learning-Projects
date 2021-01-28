@@ -22,7 +22,7 @@ Folders that are necessary for the functioning of web app are as mentioned below
   This folder contains the visual graphics and modules that are used in the project.
   
 # Running the Web App
-The program necessary for deploying the web app is stored in the file NLPApp.py. To run the program, download the file to the working directory in your local system and run the following command on in the terminal/command prompt:
+The program necessary for deploying the web app is stored in the file NLPApp.py. To run the program, download the file to the working directory in your local system and run the following command in the terminal/command prompt:
 ```
 streamlit run NLPApp.py
 ```

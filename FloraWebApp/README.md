@@ -10,7 +10,7 @@ The project is distributed under the MIT License. The resources for this project
 
 ### Files and Folders
 Folders that are necessary for the functioning of web app are as mentioned below:
-- [Data](https://github.com/ashwinraj-in/Vulpex-WebApp/tree/master/Server):
+- [Data](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp/Data):
   This folder contains the datasets that are used to develop the model.
 - [PredictionApp](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp/Resources):
   This file contains the program for the web app including the predictive model.

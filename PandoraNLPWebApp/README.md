@@ -3,7 +3,7 @@ PandoraNLP is a serverles web application built using streamlit that uses Natura
 
 The project is distributed under the MIT License. The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
-![Video](https://github.com/ashwinraj-in/Workspace/blob/main/PandoraNLPWebApp/Resources/Videos/PandoraNLPDemo.mp4)
+![WebApp Demo](https://github.com/ashwinraj-in/Workspace/blob/main/PandoraNLPWebApp/Demo.gif)
 
 # Installation and Development
 ### Dependencies

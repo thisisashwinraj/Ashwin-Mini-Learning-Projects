@@ -3,8 +3,6 @@ PandoraNLP is a serverles web application built using streamlit that uses Natura
 
 The project is distributed under the MIT License. The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
-![WebApp Demo](https://github.com/ashwinraj-in/Workspace/blob/main/PandoraNLPWebApp/Demo.gif)
-
 # Installation and Development
 ### Dependencies
 - Gensim (>=3.8.3)
@@ -30,6 +28,8 @@ streamlit run NLPApp.py
 ```
   
 Once the command is run, an internet browser window should pop-up that directs you to the created WebApp.
+
+![WebApp Demo](https://github.com/ashwinraj-in/Workspace/blob/main/PandoraNLPWebApp/Demo.gif)
 
 Local URL: http://localhost:8501
 Network URL: http://192.168.42.172:8501

@@ -13,3 +13,5 @@ This file contains the list of python packages that are used for building the we
 ```
 pip3 install -r requirements.txt
 ```
+### [Sample Input](https://github.com/ashwinraj-in/Workspace/blob/main/PandoraNLPWebApp/Sample-Input/requirements.txt)
+This folder contains sample inputs to test the web app's performance. Each sample input contains varied text to test the web app's performance with different input sets.

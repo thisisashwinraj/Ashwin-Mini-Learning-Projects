@@ -1,7 +1,7 @@
 # Workspace
 This repository contains the program and resources for various projects that are as listed below. The projects uses a wide array of technologies and the dependencies for each project is specified seprately in their respective folders.
 
-This repository was started in October 2020 and all the software and resources used are shared under the [MIT License](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE).
+This repository was started in October 2020 and all software and resources used are shared under the [MIT License](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE).
 
 # Projects
 All the resources for the projects are available in their respective folders. You can look for the project status of each project in its README sections. The various projects included in this repository are as mentioned below:

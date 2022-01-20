@@ -4,7 +4,7 @@ This repository contains the program and resources for various projects that are
 This repository was started in October 2020 and all software and resources used are shared under the [MIT License](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE).
 
 # Projects
-All the resources for the projects are available in their respective folders. You can look for the project status of each project in its README sections. The various projects included in this repository are as mentioned below:
+All the resources for the projects are available in their respective folders. You can look for the project status of each project in their respective ~/README.md files. The various projects included in this repository are as mentioned below:
 
 ### [Flora Web App](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp)
 Flora is a serverles web application built using streamlit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. Random Forest Clasifier is used for building the predictive model.

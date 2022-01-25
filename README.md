@@ -33,7 +33,7 @@ To contribute to this repository you have to clone the repository and send a pul
 git clone https://github.com/ashwinraj-in/Workspace.git
 ```
 ### Installing Required Libraries
-Each project has different set of dependencies that can be found in the requirements.txt file of that project. These can be installed using the following code:
+Each project has different set of dependencies that can be found in the requirements.txt file of that project
 ```
 pip install -r requirements.txt
 ```

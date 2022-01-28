@@ -41,4 +41,4 @@ pip install -r requirements.txt
 Issues integrate lightweight tasks tracking within the repository. Contributors are expected to open issues using the issue templates present in the .github folder. The contributors may either open a Bug Report or add a Feaure Request.
 
 # License and Project Status
-The software and all other resources present in this repository are distributed under the MIT license. The project status of various projects can be found in their respective README sections.
+The software and all other resources present in this repository are distributed under the [MIT license](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE). The project status of various projects can be found in their respective README sections.

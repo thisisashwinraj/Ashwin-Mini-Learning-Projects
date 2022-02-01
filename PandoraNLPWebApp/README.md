@@ -31,8 +31,8 @@ Once the command is run, an internet browser window should pop-up that directs y
 
 ![WebApp Demo](https://github.com/ashwinraj-in/Workspace/blob/main/PandoraNLPWebApp/Demo.gif)
 
-Local URL: http://localhost:8501
-Network URL: http://192.168.42.172:8501
+#### Local URL: http://localhost:8501
+#### Network URL: http://192.168.42.172:8501
   
 # Contribution
 New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this README. For major changes, it is recommended that you open an issue first to discuss what you would like to change.

@@ -47,4 +47,4 @@ The software requires certain libraries that needs to be installed for running t
 ```
 
 # License and Project Status
-The source code and other resources for developing the payroll management system are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be done in user interface by implementaion of graphics.
+The source code and other resources for developing the payroll management system are distributed under [MIT license](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE). The project is completed and all the files are available in this repository. Further improvements can be done in user interface by implementaion of graphics.

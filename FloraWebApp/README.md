@@ -1,7 +1,7 @@
 # Flora Web App
 Flora is a serverles web application built using streamlit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. Random Forest Clasifier is used for building the predictive model.
 
-The project is distributed under the MIT License. The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
+The project is distributed under the [MIT License](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE). The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
 # Installation and Development
 ### Dependencies

@@ -1,7 +1,7 @@
 # Mercury Payroll System
 Mercury Payroll System is a console application that enables your business to handle all your employee's financial records in a hassle-free, automated fashion. The software does not use any graphic interface. The software has multiple classes and sub-classes with numerous features within them. The software is scripted in C++ programming language.
 
-The project is distributed under the MIT License. The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in)
+The project is distributed under the [MIT License](https://github.com/ashwinraj-in/Workspace/LICENSE). The resources for this project are maintained by [Ashwin Raj](https://github.com/ashwinraj-in)
 
 # The Software
 The __[source.cpp](https://github.com/ashwinraj-in/Workspace/blob/main/MercuryPayrollSystem/source.cpp)__ file contains the program for building the software. Basic operations that a users can perform using this software include adding new employee records, modifying employee records, deleting records and displaying one or all employee’s record.

@@ -31,7 +31,7 @@ To run the console application, simply download the source.cpp file to your loca
  This function allows the user to print pay slips of the employees. To print the salary slip the user enters the code of the particular employee. The slip enlists basic salary, allowance, deductions and net salary of the employee.
  
 # Contribution
-New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this README. For major changes, it is recommended that you open an issue first to discuss what you would like to change.
+New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this [README](https://github.com/ashwinraj-in/Workspace/blob/main/MercuryPayrollSystem/README.md). For major changes, it is recommended that you open an issue first to discuss what you would like to change.
 
 ### Clone the repository
 To contribute to this project you have to clone the repository and send a pull request.

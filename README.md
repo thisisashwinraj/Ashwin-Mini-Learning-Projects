@@ -23,7 +23,7 @@ PandoraNLP is a serverles web application built using streamlit that uses Natura
 > **Technical Stack**: Python, Natural Language Processing, Streamlit
 
 # Contribution
-New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective READMEs. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
+New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective README files. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
 
 Contributors may open issues, suggest edits, send pull requests with improvements and/or add new projects to this repository. However, for major changes, it is recommended that you open an issue first to discuss what you would like to change. More information regarding contribution can be found in the [~/.github/CONTRIBUTING](https://github.com/ashwinraj-in/Workspace/tree/main/.github/CONTRIBUTING) folder.
 

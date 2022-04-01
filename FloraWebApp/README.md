@@ -40,4 +40,4 @@ sudo pip3 install -r requirements.txt
 ```
 
 # License and Project Status
-The software and other resources for deploying the web app are distributed under MIT license. The project is completed and all the files are available in this repository. Further improvements can be done by hosting the web app on the server and improving the User interface.
+The software and other resources for deploying the web app are distributed under [MIT license](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE). The project is completed and all the files are available in this repository. Further improvements can be done by hosting the web app on the server and improving the User interface.

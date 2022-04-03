@@ -6,7 +6,7 @@ The project is distributed under the [MIT License](https://github.com/ashwinraj-
 # Installation and Development
 ### Dependencies
 - Python (>= 3.7.9)
-- Gensim (>=3.8.3)
+- Gensim (>= 3.8.3)
 
 ### Files and Folders
 Folders that are necessary for the functioning of the chrome extension are as mentioned below:

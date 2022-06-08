@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Hermes - News Summarizer",
+  "description": "Summarise onliine news articles in seconds",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts" : [
+   { 
+     "js": ["background.js"],
+     "css": ["style.css"],
+     "matches": ["https://www.bbc.co.uk/news/*"]
+   }
+ ]
+}

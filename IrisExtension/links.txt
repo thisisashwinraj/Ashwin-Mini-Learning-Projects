@@ -1,0 +1,3 @@
+https://blog.devgenius.io/bypassing-noisy-news-writing-a-text-summarisation-google-chrome-extension-57074777bf18
+
+https://github.com/Usefulmaths/BBC-News-Article-Summarisation-Google-Chrome-Extension

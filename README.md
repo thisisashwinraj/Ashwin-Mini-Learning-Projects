@@ -1,5 +1,5 @@
 # Workspace
-This repository contains the source code and resources for various projects that are as listed below. These projects use different technologies & the dependencies for each of the project are specified seprately in their respt sub-directories
+The repository contains the source code and resources for various projects that are as listed below. These projects use different technologies & the dependencies for each of the project are specified seprately in their respt sub-directories
 
 This repository was started in October 2020 and all software and the resources used are shared under the [MIT License](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE)
 

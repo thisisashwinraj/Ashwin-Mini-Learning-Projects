@@ -19,7 +19,7 @@ Mercury Payroll System is a terminal application, that enables your business to 
 > **Technical Stack**: C++
 
 ### [PandoaNLP Web App](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLP)
-PandoraNLP is a serverles web application built using streamlit that uses Natural Language Processing modules such as Spacy, Gensim and Sumy to perform various natural language tasks such as Summarization, Sentiment Analysis etc
+Pandora NLP is a serverles web application built using streamlit that uses Natural Language Processing modules such as Spacy, Gensim and Sumy to perform various natural language tasks such as Summarization, Sentiment Analysis etc
 > **Technical Stack**: Python, Natural Language Processing, Streamlit
 
 # Contribution

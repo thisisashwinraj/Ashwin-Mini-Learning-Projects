@@ -37,7 +37,7 @@ Goto the DialogflowConsole and select custom intent option. Import the code into
 ### Submitting a Pull Request
 Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md) before submitting your PR.
 
-Navigate to this subdirectory & check status of all files that were altered (red) by running the below code in Git Bash:
+Navigate to this subdirectory, & check status of all files that were altered (red) by running the below code in Git Bash:
 ```
 git status
 ```

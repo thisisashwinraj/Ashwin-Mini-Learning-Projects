@@ -7,7 +7,7 @@ This repository was started in October 2020 and all software and the resources u
 The code and resources for the projects are available in their respective folders. You can check for the project status of each of the project in their respective readme.md. The various projects maintained in this repository are as mentioned
 
 ### [Flora Web App](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp)
-Flora is a serverles web application built using StreamLit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. RandomForest Clasifier is used for building the ML predictive model.
+Flora is a serverles web application built using StreamLit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. RandomForest Clasifier is used for building the ML predictive model
 > **Technical Stack**: Python, Streamlit, Machine Learning
 
 ### [Apheleia Extension](https://github.com/ashwinraj-in/Workspace/tree/main/ApheleiaExtension)
@@ -15,7 +15,7 @@ Apheleia is an AI enabled chrome extension, that uses natural language processin
 > **Technical Stack**: Python, Natural Language Processing, HTML5, CSS3, Javascript
 
 ### [Mercury Payroll System](https://github.com/ashwinraj-in/Workspace/tree/main/MercuryPayrollSystem)
-Mercury Payroll System is a terminal application that enables your business to handle all of your employee's financial records in a hassle-free, & automated fashion. This software has multiple classes with numerous features within them.
+Mercury Payroll System is a terminal application, that enables your business to handle all of your employee's financial records in a hassle-free, & automated fashion. This software has multiple classes with numerous features within them
 > **Technical Stack**: C++
 
 ### [PandoaNLP Web App](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLP)

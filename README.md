@@ -15,7 +15,7 @@ Apheleia is an AI enabled chrome extension, that uses natural language processin
 > **Technical Stack**: Python, Natural Language Processing, HTML5, CSS3, Javascript
 
 ### [Mercury Payroll System](https://github.com/ashwinraj-in/Workspace/tree/main/MercuryPayrollSystem)
-Mercury Payroll System is a console application that enables your business to handle all your employee's financial records in a hassle-free, automated fashion. The software has multiple classes with numerous features within them.
+Mercury Payroll System is a console application that enables your business to handle all of your employee's financial records in a hassle-free, & automated fashion. This software has multiple classes with numerous features within them.
 > **Technical Stack**: C++
 
 ### [PandoaNLP Web App](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLP)

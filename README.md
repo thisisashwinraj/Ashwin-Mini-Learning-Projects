@@ -22,23 +22,44 @@ Mercury Payroll System is a terminal application, that enables your business to 
 Pandora NLP is a serverles web application built using streamlit that uses Natural Language Processing modules such as Spacy, Gensim and Sumy to perform various natural language tasks such as Summarization, Sentiment Analysis etc
 > **Technical Stack**: Python, Natural Language Processing, Streamlit
 
-# Contribution
-New contributors of all experience levels are welcomed to contribute to this repository. Basic information about the various projects have been included in their respective README files. This repository is maintained by [Ashwin Raj](https://github.com/ashwinraj-in).
+# Contribution and Guidelines
 
-Contributors may open issues, suggest edits, send pull requests with improvements and/or add new projects to this repository. However, for major changes, it is recommended that you open an issue first to discuss what you would like to change. More information regarding contribution can be found in the [~/.github/CONTRIBUTING](https://github.com/ashwinraj-in/Workspace/tree/main/.github/CONTRIBUTING) folder.
+To start contributing to the project, clone the repository into your local system subdirectory using the below git code:
+```
+https://github.com/thisisashwinraj/Jovian-Bot.git
+```
+Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using [Git CLI](https://cli.github.com/). The changes may additionally be performed by opening this repo using [GitHub Desktop](https://desktop.github.com/)
 
-### Clone the repository
-To contribute to this repository you have to clone the repository and send a pull request.
+### Edit the Source Code and Make Desired Changes
+
+Goto the DialogflowConsole and select custom intent option. Import the code into Dialogflow. Make the appropriate changes, test the dialogflow agent on the simulator, download the ZIP file and make a pull request on this repository.
+
+### Submitting a Pull Request
+Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md) before submitting your PR.
+
+Navigate to this subdirectory & check status of all files that were altered (red) by running the below code in Git Bash:
 ```
-git clone https://github.com/ashwinraj-in/Workspace.git
+git status
 ```
-### Installing Required Libraries
-Each project has different set of dependencies that can be found in the requirements.txt file of that project
+Stage all your files that are to be pushed into your pull request. This can be done in two ways - stage all or some files:
 ```
-pip install -r requirements.txt
+git add .            // adds every single file that shows up red when running git status
 ```
-### Opening Issues
-Issues integrate lightweight tasks tracking within the repository. Contributors are expected to open issues using the issue templates present in the .github folder. The contributors may either open a Bug Report or add a Feaure Request.
+```
+git add <filename>   // type in the particular file that you would like to add to the PR
+```
+
+Commit all the changes that you've made and describe in brief the changes that you have made using this command:
+```
+git commit -m "<commit_message>"
+```
+Push all of your updated work into this GitHub repo in the form of a Pull Request by running the following command:
+```
+git push origin main
+```
+All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-The software and all other resources present in this repository are distributed under the [MIT license](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE). The project status of various projects can be found in their respective README sections.
+Workspace, and all of its resources are distributed under [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/LICENSE). The bot is integrated with Telegram and Messenger. The latest released stable version of Jovian Bot is v1.0.0, and is available in English Language. All new releases are logged in the [/Versions](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/tree/main/versions). The agent is currently in beta phase, and more updates will be released in future
+
+Upcoming versions will include support for more policies, new platform integrations, & better user-intents matchings.

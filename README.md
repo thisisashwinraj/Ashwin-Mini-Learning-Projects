@@ -3,7 +3,6 @@ The repository contains the source code and resources for various projects that 
 
 This repository was started in October 2020 and all software and the resources used are shared under the [EPL License](https://github.com/ashwinraj-in/Workspace/blob/main/LICENSE)
 
-# Projects
 The code and resources for the projects are available in their respective folders. You can check for the project status of each of the project in their respective readme.md. The various projects maintained in this repository are as mentioned
 
 ### [Flora Web App](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp)

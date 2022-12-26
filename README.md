@@ -16,7 +16,7 @@ Apheleia is an AI enabled chrome extension, that uses natural language processin
 Mercury Payroll System is a terminal application, that enables your business to handle all of your employee's financial records in a hassle-free, & automated fashion. This software has multiple classes with numerous features within them
 > **Technical Stack**: C++ (GUI Library)
 
-### [PandoaNLP Web App](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLP)
+### [PandoraNLP Web App](https://github.com/ashwinraj-in/Workspace/tree/main/PandoraNLP)
 Pandora NLP is a serverles web application built using streamlit that uses Natural Language Processing modules such as Spacy, Gensim and Sumy to perform various natural language tasks such as Summarization, Sentiment Analysis etc
 > **Technical Stack**: Python, Natural Language Processing, Streamlit
 

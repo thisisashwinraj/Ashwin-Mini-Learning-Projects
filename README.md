@@ -58,4 +58,4 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-Workspace, & all other resources are distributed under [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/LICENSE). All new releases are logged in the [/Versions](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/tree/main/versions) directory of the individual projects.
+Workspace, & all other resources are distributed under [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/LICENSE). All releases are logged in [/Versions](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/tree/main/versions).

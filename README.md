@@ -6,11 +6,11 @@ The code and resources for the projects are available in their respective folder
 
 ### [Flora Web App](https://github.com/ashwinraj-in/Workspace/tree/main/FloraWebApp)
 Flora is a serverles web application built using StreamLit. The application uses machine learning to predict the species of Iris flower based on its dendrometric features. Random Forest clasifier is used for building the ML predictive model
-> **Technical Stack**: Python, Streamlit, Machine Learning
+> **Technical Stack**: Python, Streamlit, Machine Learning (Classification)
 
 ### [Apheleia Extension](https://github.com/ashwinraj-in/Workspace/tree/main/ApheleiaExtension)
 Apheleia is an AI enabled chrome extension, that uses natural language processing to generate summary of a site, by highlighting the important text. Extractive Summarization is used, and summarizing is done using the gensim module
-> **Technical Stack**: Python, Natural Language Processing, HTML5, CSS3, Javascript
+> **Technical Stack**: Python, Natural Language Processing, HTML, CSS
 
 ### [Mercury Payroll System](https://github.com/ashwinraj-in/Workspace/tree/main/MercuryPayrollSystem)
 Mercury Payroll System is a terminal application, that enables your business to handle all of your employee's financial records in a hassle-free, & automated fashion. This software has multiple classes with numerous features within them
